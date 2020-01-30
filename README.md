@@ -1,2 +1,2 @@
 # Vanilla_JS-app
- Making an app with Vanilla JS
+ Making an app and practicing Vanilla JS
