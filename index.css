@@ -7,3 +7,12 @@
 h1 {
   color: #a29bfe;
 }
+
+.form,
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
